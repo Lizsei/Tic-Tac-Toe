@@ -12,12 +12,17 @@ I am adding this project to my GitHub repository to showcase my skills in front-
 
 # Getting Started
 
-To get started, clone the repository and install the dependencies:
+To get started, 
+clone the repository and install the dependencies:
+
 git clone https://github.com/Lizsei/tic-tac-toe.git
+
 cd tic-tac-toe
+
 npm install
 
 Then, start the development server:
+
 npm start
 
 This will start the development server at http://localhost:3000.
@@ -27,7 +32,9 @@ This will start the development server at http://localhost:3000.
 This project was built using:
 
 React (v17.0.2)
+
 React DOM (v17.0.2)
+
 React Scripts (v4.0.3)
 
 # Roadmap of Future Improvements
